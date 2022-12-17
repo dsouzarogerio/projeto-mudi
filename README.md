@@ -18,3 +18,4 @@ O projeto consiste em construir uma aplicação para cadastro de pedidos por usu
 - [Documentação MySQL](https://dev.mysql.com/doc/)
 - [Documentação Java 11](https://docs.oracle.com/en/java/javase/11/)
 - [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+- [Documentação Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.1/usingthymeleaf.html)
