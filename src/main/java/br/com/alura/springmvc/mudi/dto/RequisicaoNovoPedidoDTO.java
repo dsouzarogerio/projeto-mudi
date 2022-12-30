@@ -5,7 +5,7 @@ import javax.validation.constraints.NotBlank;
 import br.com.alura.springmvc.mudi.model.Pedido;
 import br.com.alura.springmvc.mudi.model.StatusPedido;
 
-public class RequisicaoNovoPedido {
+public class RequisicaoNovoPedidoDTO {
 
 	@NotBlank
 	private String nomeProduto;
